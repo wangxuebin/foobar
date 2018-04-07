@@ -5,7 +5,7 @@
 ## 绩效考核工具(jxkh)
 
 ### 配置文件一共分为两个json文件
-- content文件如下：
+- config文件如下：
         
 {
 "contentfile":"2018-4-5.jxkh",
